@@ -1,4 +1,8 @@
 # demo-git-3
+dong 1 
+dong 3
+..commit 2
+dong 5 
 
 @Toan 1
 @Toan 2
